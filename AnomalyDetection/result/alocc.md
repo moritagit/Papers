@@ -67,7 +67,7 @@
 * Rを通すことで知らない画像（正常画像以外）をうまく復元できず，異常をより際立たせる
 * 正例のみでtrainしたAutoEncoderの潜在変数zを用いた異常検知の手法はあったが，今回は再構成した画像を用いている
 
-![model architecture]( "model")
+![model architecture](https://github.com/moritagit/Papers/blob/master/AnomalyDetection/result/figures/alloc_model.PNG "model")
 
 
 
