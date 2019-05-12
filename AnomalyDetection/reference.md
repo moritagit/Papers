@@ -35,6 +35,7 @@
 ### DOC
 
 * [ディープラーニングを使った画像の異常検知　－論文と実装－](https://qiita.com/shinmura0/items/cfb51f66b2d172f2403b)
+* [がんばる人のための画像検査機](https://qiita.com/shinmura0/items/7f4298b75d6b788bba80)
 * [さぁ、始まる、本気の異音検知器](https://qiita.com/shinmura0/items/58cbda22d6bbf1842edd)
 
 
@@ -56,6 +57,12 @@
 * [AnoGANの論文を読んでMNISTの異常検知をしてみた](https://qiita.com/NakaokaRei/items/231ec4efe42dfe79d1ff)
 * [【論文読み】GANを利用した異常検知まとめ](http://habakan6.hatenablog.com/entry/2018/04/29/013200)
 * [【異常検知】GANを用いた画像の異常検知](http://ni4muraano.hatenablog.com/entry/2018/08/14/174901)
+
+
+### DML (Deep Metric Learning)
+
+* [Triplet lossを使った高速な異常検知](https://qiita.com/koshian2/items/b4c4ffda99c07a1ac6b8)
+
 
 
 ## A Survey
