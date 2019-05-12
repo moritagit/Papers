@@ -1,9 +1,10 @@
 # Reference
 
+
 日本語記事へのリンク
 
 
-## Anomaly Detection (Deep Learning)
+## 異常検知入門
 
 * [Deep Learning Lab 異常検知入門](https://www.slideshare.net/shoheihido/deep-learning-lab-88299985)
 
@@ -15,12 +16,24 @@
 
 
 
-### Deep Learning
+## DAD (Deep Anomaly Detection)
 
-* [ディープラーニングを使った画像の異常検知　－論文と実装－](https://qiita.com/shinmura0/items/cfb51f66b2d172f2403b)
+### Unnormalized VAE
+
 * [Variational Autoencoderを使った画像の異常検知　前編](https://qiita.com/shinmura0/items/811d01384e20bfd1e035)
+* [Variational Autoencoderを使った画像の異常検知　後編　（塩尻MLもくもく会＃7）](https://qiita.com/shinmura0/items/6572d782ad21b15b004e)
+* [Keras VAEの画像異常検出を理解する](http://cedro3.com/ai/keras-vae-anomaly/)
+
+
+### ALOCC
+
 * [ディープラーニングによる異常検知手法ALOCCを実装した](https://qiita.com/kzkadc/items/334c3d85c2acab38f105)
 
+
+### DOC
+
+* [ディープラーニングを使った画像の異常検知　－論文と実装－](https://qiita.com/shinmura0/items/cfb51f66b2d172f2403b)
+* [さぁ、始まる、本気の異音検知器](https://qiita.com/shinmura0/items/58cbda22d6bbf1842edd)
 
 
 ### GAN
@@ -30,13 +43,7 @@
 
 
 
-### A Survey
+## A Survey
 
 * [【異常検知】Deep Learning for Anomaly Detection: A Survey を読んだ (前編)](https://fisproject.jp/2019/03/deep-learning-for-anomaly-detection-1/)
-
-
-
-### 音
-
-* [さぁ、始まる、本気の異音検知器](https://qiita.com/shinmura0/items/58cbda22d6bbf1842edd)
 
