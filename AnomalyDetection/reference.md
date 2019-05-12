@@ -32,7 +32,9 @@
 ### ALOCC
 
 * [ディープラーニングによる異常検知手法ALOCCを実装した](https://qiita.com/kzkadc/items/334c3d85c2acab38f105)
-
+* [論文まとめ＆実装例：Adversarially Learned One-Class Classifier for Novelty Detection](https://qiita.com/masataka46/items/b167a89c11061eee607d)
+* [ALOCCを使った「文字画像」を判別する試み](https://devblog.thebase.in/entry/2018/11/07/111126)
+* [論文紹介：Adversarially Learned One-Class Classifier for Novelty Detection](https://www.slideshare.net/KazukiAdachi/adversarially-learned-oneclass-classifier-for-novelty-detection)
 
 
 ### AVID

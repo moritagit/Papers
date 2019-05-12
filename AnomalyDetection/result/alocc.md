@@ -15,7 +15,7 @@
     * [論文紹介：Adversarially Learned One-Class Classifier for Novelty Detection](https://www.slideshare.net/KazukiAdachi/adversarially-learned-oneclass-classifier-for-novelty-detection)
 * Model
     * Name: ALOCC
-    * Input:
+    * Input: Image
     * Output: Reconstructor: Image (reconstructed), Discriminator: Prob. of real image
     * Network: CNN (without pooling layers)
     * Dataset: MNIST, Caltech-256, UCSD Ped2
