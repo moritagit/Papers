@@ -1,7 +1,7 @@
 # Reference
 
 
-日本語記事へのリンク
+論文・実装・解説記事等へのリンク集
 
 
 ## 全般
@@ -27,6 +27,7 @@
 
 ### Unnormalized VAE
 
+* Paper: [深層生成モデルによる非正則化異常度を用いた工業製品の異常検知](https://confit.atlas.jp/guide/event-img/jsai2018/2A1-03/public/pdf?type=in)
 * [Variational Autoencoderを使った画像の異常検知　前編](https://qiita.com/shinmura0/items/811d01384e20bfd1e035)
 * [Variational Autoencoderを使った画像の異常検知　後編　（塩尻MLもくもく会＃7）](https://qiita.com/shinmura0/items/6572d782ad21b15b004e)
 * [Keras VAEの画像異常検出を理解する](http://cedro3.com/ai/keras-vae-anomaly/)
@@ -34,6 +35,8 @@
 
 ### DOC
 
+* Paper: [Learning Deep Features for One-Class Classification](https://arxiv.org/abs/1801.05365)
+* Code: [PramuPerera/DeepOneClass](https://github.com/PramuPerera/DeepOneClass)
 * [ディープラーニングを使った画像の異常検知　－論文と実装－](https://qiita.com/shinmura0/items/cfb51f66b2d172f2403b)
 * [がんばる人のための画像検査機](https://qiita.com/shinmura0/items/7f4298b75d6b788bba80)
 * [さぁ、始まる、本気の異音検知器](https://qiita.com/shinmura0/items/58cbda22d6bbf1842edd)
@@ -42,13 +45,31 @@
 ### GAN
 
 * [異常検知とGANのまとめ(ベースとなっている論文のおさらい)](https://note.mu/koichirot11/n/n24151f3c7af8)
-* [AnoGANの論文を読んでMNISTの異常検知をしてみた](https://qiita.com/NakaokaRei/items/231ec4efe42dfe79d1ff)
 * [【論文読み】GANを利用した異常検知まとめ](http://habakan6.hatenablog.com/entry/2018/04/29/013200)
 * [【異常検知】GANを用いた画像の異常検知](http://ni4muraano.hatenablog.com/entry/2018/08/14/174901)
+* [最新研究紹介資料（異常検知）](https://www.slideshare.net/ShunsukeNAKATSUKA1/ss-106663876)
+
+
+### AnoGAN
+
+* Paper: [Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery](https://arxiv.org/abs/1703.05921)
+* Code: [LeeDoYup/AnoGAN](https://github.com/LeeDoYup/AnoGAN)
+* [AnoGANの論文を読んでMNISTの異常検知をしてみた](https://qiita.com/NakaokaRei/items/231ec4efe42dfe79d1ff)
+* [GANによる異常検知手法 anoGAN の紹介](https://www.renom.jp/ja/notebooks/tutorial/generative-model/anoGAN/notebook.html)
+* [Keras AnoGAN で異常検知をやってみる](http://cedro3.com/ai/keras-anogan-anomaly/)
+* [異常検知とGAN: AnoGan](https://www.slideshare.net/Koichirotamura2/gan-anogan)
+* [論文読み Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery](https://aotamasaki.hatenablog.com/entry/2018/04/14/212948)
+
+
+### ADGAN
+
+* [異常検知とGAN: ADGAN](https://www.slideshare.net/Koichirotamura2/gan-adgan)
 
 
 ### ALOCC
 
+* Paper: [Adversarially Learned One-Class Classifier for Novelty Detection](https://arxiv.org/abs/1802.09088)
+* Code: [khalooei/ALOCC-CVPR2018](https://github.com/khalooei/ALOCC-CVPR2018)
 * [ディープラーニングによる異常検知手法ALOCCを実装した](https://qiita.com/kzkadc/items/334c3d85c2acab38f105)
 * [論文まとめ＆実装例：Adversarially Learned One-Class Classifier for Novelty Detection](https://qiita.com/masataka46/items/b167a89c11061eee607d)
 * [ALOCCを使った「文字画像」を判別する試み](https://devblog.thebase.in/entry/2018/11/07/111126)
