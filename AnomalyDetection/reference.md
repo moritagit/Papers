@@ -59,11 +59,22 @@
 * [Keras AnoGAN で異常検知をやってみる](http://cedro3.com/ai/keras-anogan-anomaly/)
 * [異常検知とGAN: AnoGan](https://www.slideshare.net/Koichirotamura2/gan-anogan)
 * [論文読み Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery](https://aotamasaki.hatenablog.com/entry/2018/04/14/212948)
+* [論文まとめ：Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery](https://qiita.com/masataka46/items/09e4e13be097a68174cd)
 
 
 ### ADGAN
 
+* Paper: [Anomaly Detection with Generative Adversarial Networks](https://openreview.net/forum?id=S1EfylZ0Z)
 * [異常検知とGAN: ADGAN](https://www.slideshare.net/Koichirotamura2/gan-adgan)
+* [論文まとめ：ANOMALY DETECTION WITH GENERATIVE ADVERSARIAL NETWORKS](https://qiita.com/masataka46/items/4f7f770250fecc911bbc)
+
+
+### Efficient GAN
+
+* Paper: [Efficient GAN-Based Anomaly Detection](https://arxiv.org/abs/1802.06222)
+* Code: [houssamzenati/Efficient-GAN-Anomaly-Detection](https://github.com/houssamzenati/Efficient-GAN-Anomaly-Detection)
+* [論文まとめ＆実装例：EFFICIENT GAN-BASED ANOMALY DETECTION](https://qiita.com/masataka46/items/49dba2790fa59c29126b)
+* [異常検知とGAN: Efficient GAN](https://www.slideshare.net/Koichirotamura2/gan-efficient-gan)
 
 
 ### ALOCC
@@ -78,6 +89,7 @@
 
 ### AVID
 
+* Paper: [AVID: Adversarial Visual Irregularity Detection](https://arxiv.org/abs/1805.09521)
 * [[DL輪読会]AVID:Adversarial Visual Irregularity Detection](https://www.slideshare.net/DeepLearningJP2016/dlavidadversarial-visual-irregularity-detection)
 * [[DL Hacks]AVID: Adversarial Visual Irregularity Detection](https://www.slideshare.net/DeepLearningJP2016/dl-hacksavid-adversarial-visual-irregularity-detection)
 
@@ -90,5 +102,9 @@
 
 ## A Survey
 
+* Paper: [Deep Learning for Anomaly Detection: A Survey](https://arxiv.org/abs/1901.03407)
 * [【異常検知】Deep Learning for Anomaly Detection: A Survey を読んだ (前編)](https://fisproject.jp/2019/03/deep-learning-for-anomaly-detection-1/)
+* [【異常検知】Deep Learning for Anomaly Detection: A Survey を読んだ (後編)](https://fisproject.jp/2019/03/deep-learning-for-anomaly-detection-2/)
+* [[DL輪読会]Deep Learning for Anomaly Detection: A Survey](https://www.slideshare.net/DeepLearningJP2016/dldeep-learning-for-anomaly-detection-a-survey-131436499)
+* [Deep Learning: A Survey of Surveys](https://qiita.com/bukei_student/items/5d0ec0e7cc36d211e17a)
 
