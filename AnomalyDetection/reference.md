@@ -39,6 +39,14 @@
 * [さぁ、始まる、本気の異音検知器](https://qiita.com/shinmura0/items/58cbda22d6bbf1842edd)
 
 
+### GAN
+
+* [異常検知とGANのまとめ(ベースとなっている論文のおさらい)](https://note.mu/koichirot11/n/n24151f3c7af8)
+* [AnoGANの論文を読んでMNISTの異常検知をしてみた](https://qiita.com/NakaokaRei/items/231ec4efe42dfe79d1ff)
+* [【論文読み】GANを利用した異常検知まとめ](http://habakan6.hatenablog.com/entry/2018/04/29/013200)
+* [【異常検知】GANを用いた画像の異常検知](http://ni4muraano.hatenablog.com/entry/2018/08/14/174901)
+
+
 ### ALOCC
 
 * [ディープラーニングによる異常検知手法ALOCCを実装した](https://qiita.com/kzkadc/items/334c3d85c2acab38f105)
@@ -50,13 +58,7 @@
 ### AVID
 
 * [[DL輪読会]AVID:Adversarial Visual Irregularity Detection](https://www.slideshare.net/DeepLearningJP2016/dlavidadversarial-visual-irregularity-detection)
-
-
-### GAN
-* [異常検知とGANのまとめ(ベースとなっている論文のおさらい)](https://note.mu/koichirot11/n/n24151f3c7af8)
-* [AnoGANの論文を読んでMNISTの異常検知をしてみた](https://qiita.com/NakaokaRei/items/231ec4efe42dfe79d1ff)
-* [【論文読み】GANを利用した異常検知まとめ](http://habakan6.hatenablog.com/entry/2018/04/29/013200)
-* [【異常検知】GANを用いた画像の異常検知](http://ni4muraano.hatenablog.com/entry/2018/08/14/174901)
+* [[DL Hacks]AVID: Adversarial Visual Irregularity Detection](https://www.slideshare.net/DeepLearningJP2016/dl-hacksavid-adversarial-visual-irregularity-detection)
 
 
 ### DML (Deep Metric Learning)
