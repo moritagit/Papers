@@ -103,3 +103,5 @@
     * 1パッチでも異常とみなされたら，そのフレームは異常
     * SOTAとまではいかないが，タスク専用の設定でなく一般的なモデルでSOTA並のスコアを出せた
     * D(R(X)): 13%, D(X): 16%, SOTA (Deep-cascade): 9%
+
+![result](https://github.com/moritagit/Papers/blob/master/AnomalyDetection/result/figures/alloc_result.PNG "result")

@@ -22,11 +22,20 @@
 
 ## DAD (Deep Anomaly Detection)
 
+* [Deep Learningを用いた教師なし画像検査の論文調査 GAN/SVM/Autoencoderとか](https://www.slideshare.net/rist_inc/deep-learning-gansvmautoencoder-pdf)
+
+
 ### Unnormalized VAE
 
 * [Variational Autoencoderを使った画像の異常検知　前編](https://qiita.com/shinmura0/items/811d01384e20bfd1e035)
 * [Variational Autoencoderを使った画像の異常検知　後編　（塩尻MLもくもく会＃7）](https://qiita.com/shinmura0/items/6572d782ad21b15b004e)
 * [Keras VAEの画像異常検出を理解する](http://cedro3.com/ai/keras-vae-anomaly/)
+
+
+### DOC
+
+* [ディープラーニングを使った画像の異常検知　－論文と実装－](https://qiita.com/shinmura0/items/cfb51f66b2d172f2403b)
+* [さぁ、始まる、本気の異音検知器](https://qiita.com/shinmura0/items/58cbda22d6bbf1842edd)
 
 
 ### ALOCC
@@ -40,12 +49,6 @@
 ### AVID
 
 * [[DL輪読会]AVID:Adversarial Visual Irregularity Detection](https://www.slideshare.net/DeepLearningJP2016/dlavidadversarial-visual-irregularity-detection)
-
-
-### DOC
-
-* [ディープラーニングを使った画像の異常検知　－論文と実装－](https://qiita.com/shinmura0/items/cfb51f66b2d172f2403b)
-* [さぁ、始まる、本気の異音検知器](https://qiita.com/shinmura0/items/58cbda22d6bbf1842edd)
 
 
 ### GAN
