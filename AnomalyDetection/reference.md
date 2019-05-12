@@ -4,10 +4,14 @@
 日本語記事へのリンク
 
 
-## 異常検知入門
+## 全般
+
+* [Qiita 異常検知](https://qiita.com/tags/%E7%95%B0%E5%B8%B8%E6%A4%9C%E7%9F%A5/items)
+
+
+### 入門
 
 * [Deep Learning Lab 異常検知入門](https://www.slideshare.net/shoheihido/deep-learning-lab-88299985)
-
 
 
 ### 異常検知と変化検知
@@ -30,6 +34,12 @@
 * [ディープラーニングによる異常検知手法ALOCCを実装した](https://qiita.com/kzkadc/items/334c3d85c2acab38f105)
 
 
+
+### AVID
+
+* [[DL輪読会]AVID:Adversarial Visual Irregularity Detection](https://www.slideshare.net/DeepLearningJP2016/dlavidadversarial-visual-irregularity-detection)
+
+
 ### DOC
 
 * [ディープラーニングを使った画像の異常検知　－論文と実装－](https://qiita.com/shinmura0/items/cfb51f66b2d172f2403b)
@@ -40,7 +50,7 @@
 * [異常検知とGANのまとめ(ベースとなっている論文のおさらい)](https://note.mu/koichirot11/n/n24151f3c7af8)
 * [AnoGANの論文を読んでMNISTの異常検知をしてみた](https://qiita.com/NakaokaRei/items/231ec4efe42dfe79d1ff)
 * [【論文読み】GANを利用した異常検知まとめ](http://habakan6.hatenablog.com/entry/2018/04/29/013200)
-
+* [【異常検知】GANを用いた画像の異常検知](http://ni4muraano.hatenablog.com/entry/2018/08/14/174901)
 
 
 ## A Survey
