@@ -27,6 +27,7 @@
 ## Dataset
 
 * The screw dataset
+    * アイシン・エィ・ダブリュ株式会社
 * 640 x 480 gray scale images
 * train : test = 12,406 : 995
 * (test) normal : abnormal = 888 : 107
