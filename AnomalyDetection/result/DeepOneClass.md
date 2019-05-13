@@ -103,7 +103,7 @@ $$z_i = x_i - \frac{1}{n-1} \sum_{j=1}^{n} x_j + \frac{1}{n-1} x_i = \frac{n}{n-
 $$z_i^\mathrm{T} z_i = \frac{n^2}{(n-1)^2} (x_i - m)^\mathrm{T} (x_i-m) = \frac{n^2}{(n-1)^2} \sigma_i^2$$
 $$\therefore L_\mathrm{C} = \frac{1}{nk} \sum_{i=1}^{n} \frac{n^2}{(n-1)^2} \sigma_i^2$$
 
-![model](https://github.com/moritagit/Papers/blob/master/AnomalyDetection/result/figures/doc_model.PNG "model")
+![model](https://github.com/moritagit/Papers/blob/master/AnomalyDetection/result/figures/DOC_model.PNG "model")
 
 
 
@@ -114,4 +114,4 @@ $$\therefore L_\mathrm{C} = \frac{1}{nk} \sum_{i=1}^{n} \frac{n^2}{(n-1)^2} \sig
     * 1001 Abnormal Objects, Caltech 256, UDMAA-02で最高性能
     * Caltech 256で星条旗をtargetにしたときのAUCは0.999
 
-![result](https://github.com/moritagit/Papers/blob/master/AnomalyDetection/result/figures/doc_result.PNG "result")
+![result](https://github.com/moritagit/Papers/blob/master/AnomalyDetection/result/figures/DOC_result.PNG "result")
