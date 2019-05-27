@@ -42,6 +42,17 @@
 * [さぁ、始まる、本気の異音検知器](https://qiita.com/shinmura0/items/58cbda22d6bbf1842edd)
 
 
+### DAGMM
+
+* Paper: [Deep Autoencoding Gaussian Mixture Model for Unsupervised Anomaly Detection](https://openreview.net/forum?id=BJJLHbb0-)
+* Code: [danieltan07/dagmm](https://github.com/danieltan07/dagmm)
+* [異常値検出手法 DAGMM の実装](https://qiita.com/ToshihiroNakae/items/5863fd70ed9afc5fd6cd)
+    * [DAGMM Tensorflow implementation](https://github.com/tnakae/DAGMM)
+* [Chainerで異常検知手法DAGMMを実装してみた](https://qiita.com/KaijiS/items/94f880ce066dab053c8f)
+* [深層自己符号化器＋混合ガウスモデルによる教師なし異常検知](https://www.slideshare.net/ChihiroKusunoki/ss-98822807)
+* [論文読みメモ： 深層自己符号化器＋混合ガウスモデルによる教師なし異常検知（その1）](http://cookie-box.hatenablog.com/entry/2018/05/18/004544)
+
+
 ### GAN
 
 * [異常検知とGANのまとめ(ベースとなっている論文のおさらい)](https://note.mu/koichirot11/n/n24151f3c7af8)
