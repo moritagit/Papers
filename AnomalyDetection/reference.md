@@ -25,6 +25,11 @@
 * [Deep Learningを用いた教師なし画像検査の論文調査 GAN/SVM/Autoencoderとか](https://www.slideshare.net/rist_inc/deep-learning-gansvmautoencoder-pdf)
 
 
+### VAE
+
+* [Variational Auto Encoder 〜外れ値検知への応用〜](https://orizuru.io/blog/machine-learning/variational-auto-encoder/)
+
+
 ### Unnormalized VAE
 
 * Paper: [深層生成モデルによる非正則化異常度を用いた工業製品の異常検知](https://confit.atlas.jp/guide/event-img/jsai2018/2A1-03/public/pdf?type=in)
@@ -107,6 +112,7 @@
 
 ### DML (Deep Metric Learning)
 
+* [Metric Learning for Novelty and Anomaly Detection](https://arxiv.org/abs/1808.05492)
 * [Triplet lossを使った高速な異常検知](https://qiita.com/koshian2/items/b4c4ffda99c07a1ac6b8)
 
 
