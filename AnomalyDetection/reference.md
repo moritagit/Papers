@@ -25,8 +25,21 @@
 * [Deep Learningを用いた教師なし画像検査の論文調査 GAN/SVM/Autoencoderとか](https://www.slideshare.net/rist_inc/deep-learning-gansvmautoencoder-pdf)
 
 
+### AutoEncoder
+
+* [Latent Space Autoregression for Novelty Detection](https://arxiv.org/abs/1807.01653)
+* [Outlier detection using autoencoders](https://cds.cern.ch/record/2209085/files/Outlier%20detection%20using%20autoencoders.%20Olga%20Lyudchick%20(NMS).pdf)
+* [Anomaly Detection with Robust Deep Autoencoders](https://www.eecs.yorku.ca/course_archive/2017-18/F/6412/reading/kdd17p665.pdf)
+* [AutoEncoderでシンプルな音声の異常検知(Keras/TensorFlow)](https://qiita.com/shinkoizumi0033/items/f787845282d3d5d06d9a)
+* [Keras AutoEncoder で異常検知をやってみる](http://cedro3.com/ai/keras-autoencoder-anomaly/)
+* [Autoencoderによる異常検知](http://www.renom.jp/ja/notebooks/tutorial/clustering/anomaly-detection-using-autoencoder/notebook.html)
+* [Autoencoderで異常検知](https://momentum.hatenablog.jp/entry/2018/11/16/001742)
+
+
+
 ### VAE
 
+* [Variational Autoencoder based Anomaly Detection using Reconstruction Probability](https://pdfs.semanticscholar.org/0611/46b1d7938d7a8dae70e3531a00fceb3c78e8.pdf?_ga=2.261807503.309185382.1559326519-165992685.1549479546)
 * [Variational Auto Encoder 〜外れ値検知への応用〜](https://orizuru.io/blog/machine-learning/variational-auto-encoder/)
 
 
