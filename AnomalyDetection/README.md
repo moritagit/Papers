@@ -1,31 +1,42 @@
-# Reference
+# A Survey of (Deep) Anomaly Detection
 
+
+（深層）異常検知のサーベイのまとめ。
+
+結果の一覧は以下のリンクに，詳細はresult以下にまとめる。
+
+
+[サーベイ結果一覧](https://drive.google.com/open?id=1Qwbw53eV4ydwMfsRgFPoFpYpS3mvxCm5OJpxIMy2z78)
+
+
+
+## References
 
 論文・実装・解説記事等へのリンク集
 
 
-## 全般
+### 全般
 
 * [Qiita 異常検知](https://qiita.com/tags/%E7%95%B0%E5%B8%B8%E6%A4%9C%E7%9F%A5/items)
 
 
-### 入門
+#### 入門
 
 * [Deep Learning Lab 異常検知入門](https://www.slideshare.net/shoheihido/deep-learning-lab-88299985)
 
 
-### 異常検知と変化検知
+#### 異常検知と変化検知
 
 * [「異常検知と変化検知～機械学習プロフェッショナルシリーズ～」を読んで勉強会も開いて関連の情報とかも調べたのでまとめておく](https://www.st-hakky-blog.com/entry/2017/12/08/013205)
 
 
 
-## DAD (Deep Anomaly Detection)
+### DAD (Deep Anomaly Detection)
 
 * [Deep Learningを用いた教師なし画像検査の論文調査 GAN/SVM/Autoencoderとか](https://www.slideshare.net/rist_inc/deep-learning-gansvmautoencoder-pdf)
 
 
-### AutoEncoder
+#### AutoEncoder
 
 * [Latent Space Autoregression for Novelty Detection](https://arxiv.org/abs/1807.01653)
 * [Outlier detection using autoencoders](https://cds.cern.ch/record/2209085/files/Outlier%20detection%20using%20autoencoders.%20Olga%20Lyudchick%20(NMS).pdf)
@@ -37,13 +48,13 @@
 
 
 
-### VAE
+#### VAE
 
 * [Variational Autoencoder based Anomaly Detection using Reconstruction Probability](https://pdfs.semanticscholar.org/0611/46b1d7938d7a8dae70e3531a00fceb3c78e8.pdf?_ga=2.261807503.309185382.1559326519-165992685.1549479546)
 * [Variational Auto Encoder 〜外れ値検知への応用〜](https://orizuru.io/blog/machine-learning/variational-auto-encoder/)
 
 
-### Unnormalized VAE
+#### Unnormalized VAE
 
 * Paper: [深層生成モデルによる非正則化異常度を用いた工業製品の異常検知](https://confit.atlas.jp/guide/event-img/jsai2018/2A1-03/public/pdf?type=in)
 * [Variational Autoencoderを使った画像の異常検知　前編](https://qiita.com/shinmura0/items/811d01384e20bfd1e035)
@@ -51,7 +62,7 @@
 * [Keras VAEの画像異常検出を理解する](http://cedro3.com/ai/keras-vae-anomaly/)
 
 
-### DOC
+#### DOC
 
 * Paper: [Learning Deep Features for One-Class Classification](https://arxiv.org/abs/1801.05365)
 * Code: [PramuPerera/DeepOneClass](https://github.com/PramuPerera/DeepOneClass)
@@ -60,7 +71,7 @@
 * [さぁ、始まる、本気の異音検知器](https://qiita.com/shinmura0/items/58cbda22d6bbf1842edd)
 
 
-### DAGMM
+#### DAGMM
 
 * Paper: [Deep Autoencoding Gaussian Mixture Model for Unsupervised Anomaly Detection](https://openreview.net/forum?id=BJJLHbb0-)
 * Code: [danieltan07/dagmm](https://github.com/danieltan07/dagmm)
@@ -71,7 +82,7 @@
 * [論文読みメモ： 深層自己符号化器＋混合ガウスモデルによる教師なし異常検知（その1）](http://cookie-box.hatenablog.com/entry/2018/05/18/004544)
 
 
-### GAN
+#### GAN
 
 * [異常検知とGANのまとめ(ベースとなっている論文のおさらい)](https://note.mu/koichirot11/n/n24151f3c7af8)
 * [【論文読み】GANを利用した異常検知まとめ](http://habakan6.hatenablog.com/entry/2018/04/29/013200)
@@ -79,7 +90,7 @@
 * [最新研究紹介資料（異常検知）](https://www.slideshare.net/ShunsukeNAKATSUKA1/ss-106663876)
 
 
-### AnoGAN
+#### AnoGAN
 
 * Paper: [Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery](https://arxiv.org/abs/1703.05921)
 * Code: [LeeDoYup/AnoGAN](https://github.com/LeeDoYup/AnoGAN)
@@ -91,14 +102,14 @@
 * [論文まとめ：Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery](https://qiita.com/masataka46/items/09e4e13be097a68174cd)
 
 
-### ADGAN
+#### ADGAN
 
 * Paper: [Anomaly Detection with Generative Adversarial Networks](https://openreview.net/forum?id=S1EfylZ0Z)
 * [異常検知とGAN: ADGAN](https://www.slideshare.net/Koichirotamura2/gan-adgan)
 * [論文まとめ：ANOMALY DETECTION WITH GENERATIVE ADVERSARIAL NETWORKS](https://qiita.com/masataka46/items/4f7f770250fecc911bbc)
 
 
-### Efficient GAN
+#### Efficient GAN
 
 * Paper: [Efficient GAN-Based Anomaly Detection](https://arxiv.org/abs/1802.06222)
 * Code: [houssamzenati/Efficient-GAN-Anomaly-Detection](https://github.com/houssamzenati/Efficient-GAN-Anomaly-Detection)
@@ -106,7 +117,7 @@
 * [異常検知とGAN: Efficient GAN](https://www.slideshare.net/Koichirotamura2/gan-efficient-gan)
 
 
-### ALOCC
+#### ALOCC
 
 * Paper: [Adversarially Learned One-Class Classifier for Novelty Detection](https://arxiv.org/abs/1802.09088)
 * Code: [khalooei/ALOCC-CVPR2018](https://github.com/khalooei/ALOCC-CVPR2018)
@@ -116,21 +127,21 @@
 * [論文紹介：Adversarially Learned One-Class Classifier for Novelty Detection](https://www.slideshare.net/KazukiAdachi/adversarially-learned-oneclass-classifier-for-novelty-detection)
 
 
-### AVID
+#### AVID
 
 * Paper: [AVID: Adversarial Visual Irregularity Detection](https://arxiv.org/abs/1805.09521)
 * [[DL輪読会]AVID:Adversarial Visual Irregularity Detection](https://www.slideshare.net/DeepLearningJP2016/dlavidadversarial-visual-irregularity-detection)
 * [[DL Hacks]AVID: Adversarial Visual Irregularity Detection](https://www.slideshare.net/DeepLearningJP2016/dl-hacksavid-adversarial-visual-irregularity-detection)
 
 
-### DML (Deep Metric Learning)
+#### DML (Deep Metric Learning)
 
 * [Metric Learning for Novelty and Anomaly Detection](https://arxiv.org/abs/1808.05492)
 * [Triplet lossを使った高速な異常検知](https://qiita.com/koshian2/items/b4c4ffda99c07a1ac6b8)
 
 
 
-## A Survey
+### A Survey
 
 * Paper: [Deep Learning for Anomaly Detection: A Survey](https://arxiv.org/abs/1901.03407)
 * [【異常検知】Deep Learning for Anomaly Detection: A Survey を読んだ (前編)](https://fisproject.jp/2019/03/deep-learning-for-anomaly-detection-1/)
